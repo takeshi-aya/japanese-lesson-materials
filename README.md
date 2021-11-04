@@ -1,6 +1,6 @@
 # Japanese Lesson Materials for TV Takeshi channel
 
-This is the GitHub repository for Japanese lesson materials used for TV Takeshi channel on YouTube.
+This is the GitHub repository for Japanese lesson materials used for [TV Takeshi channel on YouTube](https://www.youtube.com/channel/UCq3PLjXdqVn46gZGEpfllfg).
 
 # Presentation slides
 
